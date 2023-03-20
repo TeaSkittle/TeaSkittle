@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeaSkittle
 - 👀 I’m interested in functionial and lisp based languages
-- 🌱 I’m currently learning [Racket](https://racket-lang.org/)
+- 🌱 I’m currently learning [Guile](https://www.gnu.org/software/guile/)
 - 📫 How to reach me: teaskittle@gmail.com
 
 <!---
