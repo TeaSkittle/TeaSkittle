@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeaSkittle
 - 👀 I’m interested in functionial and lisp based languages
-- 🌱 I’m currently learning [Guile](https://www.gnu.org/software/guile/)
+- 🌱 I’m currently learning [Chicken Scheme](https://call-cc.org/)
 - 📫 How to reach me: teaskittle@gmail.com
 
 <!---
