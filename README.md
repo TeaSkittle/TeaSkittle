@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeaSkittle
-- 👀 I’m interested in functionial and lisp based languages
-- 🌱 I’m currently learning [Janet](https://janet-lang.org/)
+- 👀 I’m interested in functional styled languages
+- 🌱 I’m currently learning [Nim](https://nim-lang.org/)
 - 📫 How to reach me: teaskittle@gmail.com
 
 <!---
